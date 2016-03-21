@@ -1,0 +1,12 @@
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\bin\Debug\ClientsIdentification.exe.config
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\bin\Debug\ClientsIdentification.exe
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\bin\Debug\ClientsIdentification.pdb
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Debug\ClientsIdentification.csprojResolveAssemblyReference.cache
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Debug\ClientsIdentification.Form1.resources
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Debug\ClientsIdentification.Properties.Resources.resources
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Debug\ClientsIdentification.csproj.GenerateResource.Cache
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Debug\ClientsIdentification.exe
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Debug\ClientsIdentification.pdb
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Debug\ClientsIdentification.Settings.resources
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\bin\Debug\mysql.data.dll
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\bin\Debug\mysql.web.dll

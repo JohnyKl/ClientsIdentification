@@ -1,0 +1,13 @@
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\bin\Release\ClientsIdentification.exe.config
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\bin\Release\ClientsIdentification.exe
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\bin\Release\ClientsIdentification.pdb
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\bin\Release\mysql.data.dll
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\bin\Release\mysql.web.dll
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Release\ClientsIdentification.Form1.resources
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Release\ClientsIdentification.Properties.Resources.resources
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Release\ClientsIdentification.Settings.resources
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Release\ClientsIdentification.csproj.GenerateResource.Cache
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Release\ClientsIdentification.exe
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Release\ClientsIdentification.pdb
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Release\ClientsIdentification.TicketInfo.resources
+F:\Projects\C#\ClientsIdentification\ClientsIdentification\obj\Release\ClientsIdentification.csprojResolveAssemblyReference.cache
